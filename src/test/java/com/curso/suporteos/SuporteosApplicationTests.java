@@ -8,6 +8,7 @@ class SuporteosApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test");
 	}
 
 }
