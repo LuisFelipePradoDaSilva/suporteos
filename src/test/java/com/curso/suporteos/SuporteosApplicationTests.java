@@ -10,6 +10,7 @@ class SuporteosApplicationTests {
 	void contextLoads() {
 		System.out.println("Test");
 		System.out.println("Testing...");
+		System.out.println("Still testing...");
 	}
 
 }
