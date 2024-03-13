@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### SSH ###
+ssh-suporteos
+ssh-suporteos.pub
