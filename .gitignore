@@ -35,3 +35,7 @@ build/
 ### SSH ###
 ssh-suporteos
 ssh-suporteos.pub
+
+### Logs ###
+suporteos_dev.log
+suporteos_test.log
